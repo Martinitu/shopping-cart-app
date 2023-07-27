@@ -1,12 +1,13 @@
 import NavBar from './navbar'
 import './App.css';
-import RouteSwitch from "./RouteSwitch";
+import { Outlet } from "react-router-dom";
+
 
 function App() {
   return (
-    <div className="App bg-dark">
+    <div className="App ">
       <NavBar />
-      <RouteSwitch />
+      <Outlet />
      
     </div>
   );
