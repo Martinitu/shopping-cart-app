@@ -5,7 +5,7 @@ import {  Link } from "react-router-dom";
 function Home() {
     return (
 
-        <div className="d-flex flex-column bg-dark " >
+        <div className="d-flex flex-column bg-secondary " >
         
             <div className='bg-dark'>
             <img className="img-fluid img-thumbnail m-3" src={rastas} alt='bobo hill rastas'/>
