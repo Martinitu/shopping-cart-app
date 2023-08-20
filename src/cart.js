@@ -23,7 +23,7 @@ function Cart({ itemData, items, subtotal }) {
             {cartItems}
             <div className='d-flex justify-content-between p-2' >
                 <div></div>
-            <p className="text-warning m-3">subtotal: <span className="text-secondary m-1">{subtotal}</span></p>
+            <p className="text-warning m-3">subtotal: <span className="text-secondary">{subtotal}</span></p>
             </div>
         </div>
     );
