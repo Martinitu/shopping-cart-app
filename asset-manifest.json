@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/shopping-cart-app/static/css/main.eb3caac6.css",
-    "main.js": "/shopping-cart-app/static/js/main.7a41a48b.js",
+    "main.css": "/shopping-cart-app/static/css/main.a02846ff.css",
+    "main.js": "/shopping-cart-app/static/js/main.bfec9167.js",
     "static/media/rastas.jpg": "/shopping-cart-app/static/media/rastas.3089186e9807b02ed833.jpg",
     "static/media/falling.jpg": "/shopping-cart-app/static/media/falling.a8af00b41be8de0c6a6e.jpg",
     "static/media/hat.jpg": "/shopping-cart-app/static/media/hat.5bd96bf5ef62ea028a68.jpg",
     "index.html": "/shopping-cart-app/index.html",
-    "main.eb3caac6.css.map": "/shopping-cart-app/static/css/main.eb3caac6.css.map",
-    "main.7a41a48b.js.map": "/shopping-cart-app/static/js/main.7a41a48b.js.map"
+    "main.a02846ff.css.map": "/shopping-cart-app/static/css/main.a02846ff.css.map",
+    "main.bfec9167.js.map": "/shopping-cart-app/static/js/main.bfec9167.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb3caac6.css",
-    "static/js/main.7a41a48b.js"
+    "static/css/main.a02846ff.css",
+    "static/js/main.bfec9167.js"
   ]
 }
